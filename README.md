@@ -2,9 +2,9 @@
 
 ## Overview
 
-We participated in the picoCTF 2023 competition as an  competing in the Global category, organised by Carnegie Mellon University, which ran from Mar 15 2023 to Mar 29 2023.
+We have participated in picoCTF 2023 competition, which is organised by Carnegie Mellon University and ran from Mar 15 2023 to Mar 29 2023.
 
-This is a write up of the challenges solved during the event.
+The following is our write up of the challenges we solved during the contest.
 
 ## Team
 
@@ -16,11 +16,11 @@ This is a write up of the challenges solved during the event.
 
 ## chrono 
 
-Use ssh to connect server.
+Use ssh to connect to the server.
 
-in path / has a directory which name is challenge.
+in path `/` has a directory named `challenge`.
 
-Use **cd** command to challenge and **ls** to check what is inside the directory.
+Use **cd** command to `challenge` and **ls** to check what is inside the directory.
 
 ![](https://i.imgur.com/utvV0Wh.png)
 
@@ -30,23 +30,23 @@ Use **cat** command to open the JSON file, and we can get the flag.
 
 ## money-ware
 
-We can search **1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX** in Browser.
+We can search **1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX** in browser.
 
 ![](https://i.imgur.com/3zV87qY.png)
 
-So the flag is **picoCTF{Petya}**
+As we can see, the flag is **picoCTF{Petya}**
 
 ## Permissions
 
-Use ssh to connect server.
+Use ssh to connect to the server.
 
-in path / has a directory which name is challenge.
+in path `/` has a directory named `challenge`.
 
-Use **cd** command to challenge and **ls** to check what is inside the directory.
+Use **cd** command to `challenge` and **ls** to check what is inside the directory.
 
 ![](https://i.imgur.com/rQiyUTO.png)
 
-Use **vim** to open the JSON file, and we can get the flag.
+Open the JSON file by **vim** and get the flag.
 
 ![](https://i.imgur.com/2lEiIEl.png)
 
